@@ -4,8 +4,8 @@ import './Header.css'
 const Header = () => {
     return (
         <div className="header">
-            <h1>Travel Blog</h1>
-            <p>Explore the world with us</p>
+            <h1>Travel Blog for Corona, Nueva York</h1>
+            <p>Explore this corner of Queens with me (translate to spansih)</p>
         </div>
     )
 }
