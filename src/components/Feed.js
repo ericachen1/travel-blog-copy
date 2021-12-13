@@ -15,7 +15,7 @@ const Feed = () => {
     },
     { 
         name: "El mural y las actividades en la comunidad ",
-        ihttps:"//assets.atlasobscura.com/media/W1siZiIsInVwbG9hZHMvYXNzZXRzLzQwM2M0OGVhLTk5MTAtNDAzZi1hZmQwLTIzYmU2NDA0MzgyZWQwMzY5NGQxNWQ2MjhiOTJlZl9HZXJhZGEtQXJ0LTIyMyBob3Jpem9udGFsLmpwZyJdLFsicCIsImNvbnZlcnQiLCIiXSxbInAiLCJjb252ZXJ0IiwiLXF1YWxpdHkgODEgLWF1dG8tb3JpZW50Il0sWyJwIiwidGh1bWIiLCIxMjgweD4iXV0/Gerada-Art-223%20horizontal.jpg",
+        image:"https://assets.atlasobscura.com/media/W1siZiIsInVwbG9hZHMvYXNzZXRzLzQwM2M0OGVhLTk5MTAtNDAzZi1hZmQwLTIzYmU2NDA0MzgyZWQwMzY5NGQxNWQ2MjhiOTJlZl9HZXJhZGEtQXJ0LTIyMyBob3Jpem9udGFsLmpwZyJdLFsicCIsImNvbnZlcnQiLCIiXSxbInAiLCJjb252ZXJ0IiwiLXF1YWxpdHkgODEgLWF1dG8tb3JpZW50Il0sWyJwIiwidGh1bWIiLCIxMjgweD4iXV0/Gerada-Art-223%20horizontal.jpg",
         text: "Este es un mural de un médico durante la pandemia de coronavirus. Este mural está en el parque de la Corona de Flushing Meadows. Queens tiene menos camas que hospital que Manhattan pero Queens tiene (el doble) más personas que Manhattan. Muchas Mucho más personas viven en Corona pero no hay pocos PPE y camas de hospital.",
     },
     {
