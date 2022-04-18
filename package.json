@@ -1,5 +1,5 @@
 {
-  "homepage": "https://ericachen1.github.io/travel-blog-copy",
+  "homepage": "https://ericachen1.github.io/travel-blog",
   "name": "travel-blog-copy",
   "version": "0.1.0",
   "private": true,
@@ -39,15 +39,15 @@
       "last 1 safari version"
     ]
   },
-  "description": "Visitar https://ericachen1.github.io/travel-blog-copy. Leer sobre lugares históricos en Corona, Queens.",
+  "description": "Visitar https://ericachen1.github.io/travel-blog. Leer sobre lugares históricos en Corona, Queens.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ericachen1/travel-blog-copy.git"
+    "url": "git+https://github.com/ericachen1/travel-blog.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ericachen1/travel-blog-copy/issues"
+    "url": "https://github.com/ericachen1/travel-blog/issues"
   }
 }

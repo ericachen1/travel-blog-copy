@@ -4,7 +4,7 @@ import './Feed.css'
 
 const Feed = () => {
     const data = [{
-
+    // audioguide
         type: "mural de vinilo",
         name: "One Time Square",
         image: "https://i0.wp.com/gothamtogo.com/wp-content/uploads/2019/08/Domingo-Zapata-Mural-in-Times-Square.jpeg?ssl=1",
@@ -15,18 +15,50 @@ const Feed = () => {
         style: "Moderno",
         justification: "",
     },
-    {
+    { // audioguide
+        type: "mural de vinilo",
+        name: "",
+        image: "https://streetartnyc.org/wp-content/uploads/2017/12/demsky-street-art-queens-nyc.jpg",
+        title: "",
+        artist: "J Demsky",
+        text: "",
+        year: "",
+        style: "",
+        justification: "",
+    },
+    { // audioguide
+        type: "sculptura",
+        name: "Museo y Biblioteca de la Hispanic Society",
+        image: "https://www.pablopicasso.org/images/paintings/avignon.jpg",
+        title: "Les Demoiselles d'Avignon",
+        artist: "Manuel Chili (Caspicara)",
+        text: "",
+        year: "1907",
+        style: "Cubismo",
+        justification: "",
+    },
+    { // ed stem post
+        type: "pintura al óleo",
+        name: "Museo y Biblioteca de la Hispanic Society",
+        image: "https://static.us.edusercontent.com/files/qbfKNQOH79KtsMMFJ2rZ2Wxc",
+        title: "Arabs Ascending a Hill",
+        artist: "Mariano Fortuny Marsal",
+        text: "Esta pintura muestra una escena del perspectiva de un viajero. En esta pintura hay unos hombres que están caminando. Hay mucha naturaleza. Los hombres están camuflados. La pintura tiene muchos tonos/colores terrestres. Veo flores blancas al noroeste de la pintura.        ",
+        year: "1864",
+        style: "paisajes",
+        justification: "Me recordó a una pintura que me gusta llamado 'Tarde de domingo en la isla de La Grande Jatte' (A Sunday Afternoon on the Island of La Grande Jatte) que tiene muchos puntos.Es difícil ver a los hombres en esta pintura porque esta pintura no tiene mucha la definición. Creo que unos de los hombres están llevando roja en sus cabezas para destacar (stands out). Cuando Mariano viajó a Marruecos, vio prisioneros. Su viaje fue una inspiración para esta pintura."
+    },
+    { // oral presentation
         type: "pintura al oleo de mujeres",
         name: "Museo de Arte Moderno",
         image: "https://www.pablopicasso.org/images/paintings/avignon.jpg",
         title: "Les Demoiselles d'Avignon",
         artist: "Pablo Picasso",
-        text: "https://prezi.com/view/4oq80IW6MyEFEUXSfLYr/",
+        text: "See following link for presentation: https://prezi.com/view/4oq80IW6MyEFEUXSfLYr/",
         year: "1907",
         style: "Cubismo",
-        justification: "https://prezi.com/view/4oq80IW6MyEFEUXSfLYr/",
+        justification: "See following link for presentation: https://prezi.com/view/4oq80IW6MyEFEUXSfLYr/",
     },
-
     ]; // use []; when more than one entry in the array
     
     const [posts, setPosts] = useState(data); // data rep by useState variable 
