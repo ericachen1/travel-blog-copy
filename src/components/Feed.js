@@ -32,10 +32,10 @@ const Feed = () => {
     },
     { // audioguide
         type: "Esculturas",
-        name: "Museo y Biblioteca de la Hispanic Society",
+        name: "Manuel Chili (Caspicara)",
         image: "https://s.wsj.net/public/resources/images/BN-OV264_MASTER_TOP_20160708155949.jpg",
         title: "Les Demoiselles d'Avignon",
-        artist: "Manuel Chili (Caspicara)",
+        artist: "Museo y Biblioteca de la Hispanic Society",
         text: "",
         year: "1775",
         style: "Cubismo",
