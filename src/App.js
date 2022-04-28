@@ -8,6 +8,7 @@ function App() {
     <div>
       <Header />
       <Feed />
+      
       <Footer />
     </div>
   );
