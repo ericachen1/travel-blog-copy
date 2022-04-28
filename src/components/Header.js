@@ -4,9 +4,8 @@ import './Header.css'
 const Header = () => {
     return (
         <div className="header">
-            <p>HELLO TESTING</p>
-            <h1>Blog de Viajes Arte Español en Nueva York</h1>
-            <p>explora esta pueblo en Queens conmigo</p>
+            <h1>Blog de Arte Español en Nueva York | Erica Chen</h1>
+            <h3>Audioguías de arte por ... Domingo Zapata, J Demsky y Manuel Chili </h3>
         </div>
     )
 }
