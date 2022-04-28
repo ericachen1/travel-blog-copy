@@ -5,7 +5,7 @@ import './Feed.css'
 const Feed = () => {
     const data = [{
     // audioguide
-        type: "Mural de vinilo",
+        type: "Mural de vinilo ",
         name: "Domingo Zapata",
         image: "https://i0.wp.com/gothamtogo.com/wp-content/uploads/2019/08/Domingo-Zapata-Mural-in-Times-Square.jpeg?ssl=1",
         title: "Life is a Dream",
