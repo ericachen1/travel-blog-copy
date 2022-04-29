@@ -8,7 +8,7 @@ const Feed = () => {
         type: "Mural de vinilo ",
         name: "Domingo Zapata",
         image: "https://i0.wp.com/gothamtogo.com/wp-content/uploads/2019/08/Domingo-Zapata-Mural-in-Times-Square.jpeg?ssl=1",
-        title: "Life is a Dream",
+        title: "La vida es un sueño",
         artist: "One Time Square",
         text: "https://www.youtube.com/embed/62trNL-bzoE",
         year: "2019",
