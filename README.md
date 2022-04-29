@@ -1,2 +1,1 @@
-Visitar https://ericachen1.github.io/travel-blog/.
-Leer sobre lugares históricos en Corona, Queens.
+Visitar https://ericachen1.github.io/travel-blog-copy/.
